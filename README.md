@@ -65,6 +65,12 @@ los días de ultima conexión sea mayor a dos.
 Se pudo apreciar que los clientes activos contactan al soporte más frecuentemente (1.37) que los fugados (1.12) y la gravedad promedio es más alta en clientes activos (0.83 vs 0.55).
 Si se valido que la variación en la prioridad del soporte aumentó más en clientes fugados (de 0.04 a 0.18). Lo cual es consistente con quejas que se agravaron justo antes de la fuga.
 
+## Código de Python
+
+Se realizo un breve código en Google Colab para poder obtener información general acerca de la base de datos, tales como medias, medianas, desvios y cuartiles. Asi como también, dos histogramas de intéres y un boxplot para identificar outliers.
+
+**Código:** [Código de Python](Churn_Clientes.ipynb)  
+**Código en Google Colab:** [Notebook](https://colab.research.google.com/drive/1Ts7AmgmSTS2V_zmhVL9pm9KzSk5r2GY4?usp=sharing)
 
 ## Herramientas utilizadas
 
@@ -73,10 +79,8 @@ Si se valido que la variación en la prioridad del soporte aumentó más en clie
 - **Looker Studio:** dashboard interactivo para la visualización de los datos.
 - **Canva:** para la presentación ejecutiva del análisis.
 
-
 ## Recursos adicionales
 
-- [Notebook de análisis en Google Colab](https://colab.research.google.com/drive/1Ts7AmgmSTS2V_zmhVL9pm9KzSk5r2GY4?usp=sharing)
 - [Dashboard interactivo en Looker](URL)
 - [Presentación ejecutiva (Canva)](https://www.canva.com/design/DAGrjVGS-yg/hfd_jqg5bhwy1vr0GLNgCg/edit?utm_content=DAGrjVGS-yg&utm_campaign=designshare&utm_medium=link2&utm_source=sharebutton)
 
