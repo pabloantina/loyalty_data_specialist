@@ -83,7 +83,6 @@ Se realizo un breve código en Google Colab para poder obtener información gene
 
 - [Dashboard interactivo en Looker](https://lookerstudio.google.com/reporting/4ba20879-8b19-4843-b150-c197d4658388)
 - [Presentación ejecutiva (Canva)](https://www.canva.com/design/DAGrjVGS-yg/hfd_jqg5bhwy1vr0GLNgCg/edit?utm_content=DAGrjVGS-yg&utm_campaign=designshare&utm_medium=link2&utm_source=sharebutton)
-- [Acceso interno a la presentacion ejecutiva (Canva)](Churn Clientes ECOMM.pdf)
 
 
 ## Contacto
