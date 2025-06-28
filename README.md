@@ -49,6 +49,7 @@ Los datos muestran que los clientes que permanecen activos en ECOMM presentan un
 desafiliaron redujeron su uso y extendieron el tiempo desde su última conexión. Esto confirma que una baja en la actividad puede anticipar comportamientos de fuga. A su vez se genero un código con el
 objetivo de identificar clientes potenciales a la fuga bajo el criterio que la variación de logins sea menor a 20, o que la variación de uso del servicio sea negativa (menor a cero) o que la variación de
 los días de ultima conexión sea mayor a dos.
+
 **Código:** [Código posibles ID fuga](Script_Posibles_Fuga.sql)  
 **Resultado:** [Resultados IDs con posible fuga](Resultas_ID_Posibles_Fuga.csv)
 
